@@ -2,29 +2,29 @@ class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         vector<int> ans;
-unordered_set<int> s;
-int n = grid.size();
-int a, b;
+        unordered_set<int> s;
+        int n = grid.size();
+        int a = -1, b = -1;
+        int expSum = 0, actualSum = 0;
+        int expectedSum = (n * n * (n * n + 1)) / 2;
 
-int expSum = 0, actualSum = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                int num = grid[i][j];
+                actualSum += num;
 
-for(int i = 0; i < n; i++) {
-    for(int j = 0; j < n; j++) {
-        actualSum += grid[i][j];
-
-        if(s.find(grid[i][j]) != s.end()) {
-            a = grid[i][j];
-            ans.push_back(a);
+                if (s.find(num) != s.end()) {
+                    a = num;
+                } else {
+                    s.insert(num);
+                }
+            }
         }
-        s.insert(grid[i][j]);
-    }
-}
+        b = expectedSum - actualSum + a;
 
-expSum = (n * n * (n * n + 1)) / 2;
-b = expSum + a - actualSum;
-ans.push_back(b);
+        ans.push_back(a);
+        ans.push_back(b);
 
-return ans;
-
+        return ans;
     }
 };
