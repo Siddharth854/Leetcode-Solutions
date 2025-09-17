@@ -7,7 +7,7 @@ class Solution {
             1000,900,500,400,100,90,50,40,10,9,5,4,1
         };
 
-        String romanString = "";  // use normal String
+        String romanString = "";
 
         for (int i = 0; i < romanNumerals.length; i++) {
             while (num >= values[i]) {
