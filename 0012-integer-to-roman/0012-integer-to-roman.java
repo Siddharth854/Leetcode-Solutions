@@ -12,7 +12,7 @@ class Solution {
         for (int i = 0; i < romanNumerals.length; i++) {
             while (num >= values[i]) {
                 num = num - values[i];
-                romanString += romanNumerals[i]; // string concatenation
+                romanString += romanNumerals[i];
             }
         }
         return romanString;
