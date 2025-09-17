@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
