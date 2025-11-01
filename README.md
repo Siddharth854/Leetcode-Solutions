@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## String
 |  |
 | ------- |
