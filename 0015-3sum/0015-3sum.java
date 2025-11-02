@@ -3,18 +3,15 @@ import java.util.*;
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
+        Arrays.sort(nums);  // Step 1: Sort the array
+        int n = nums.length;
 
-        // Step 1: Sort the array
-        Arrays.sort(nums);
-
-        // Step 2: Traverse the array
-        for (int i = 0; i < nums.length - 2; i++) {
-
-            // Skip duplicate elements for i
+        for (int i = 0; i < n - 2; i++) {
+            // Step 2: Skip duplicates for 'i'
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
             int left = i + 1;
-            int right = nums.length - 1;
+            int right = n - 1;
 
             while (left < right) {
                 int sum = nums[i] + nums[left] + nums[right];
@@ -22,22 +19,19 @@ class Solution {
                 if (sum == 0) {
                     result.add(Arrays.asList(nums[i], nums[left], nums[right]));
 
-                    // Move both pointers and skip duplicates
-                    left++;
-                    right--;
+                    // Step 3: Move left and right pointers and skip duplicates
+                    while (left < right && nums[left] == nums[left + 1]) left++;
+                    while (left < right && nums[right] == nums[right - 1]) right--;
 
-                    while (left < right && nums[left] == nums[left - 1]) left++;
-                    while (left < right && nums[right] == nums[right + 1]) right--;
-                } 
-                else if (sum < 0) {
                     left++;
-                } 
-                else {
                     right--;
+                } else if (sum < 0) {
+                    left++;  // need a bigger sum
+                } else {
+                    right--; // need a smaller sum
                 }
             }
         }
-
         return result;
     }
 }
