@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1929-concatenation-of-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
