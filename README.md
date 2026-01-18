@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
