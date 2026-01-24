@@ -1,13 +1,15 @@
 class Solution {
-    public int subarraySum(int[] arr, int k) {
-        int count=0;
-        int n= arr.length;
-        for(int i=0;i<n;i++)
-        {   int sum=0;
-            for(int j=i;j<n;j++)
-            {
-                sum+=arr[j];
-                if(sum==k) count++;
+    public int subarraySum(int[] nums, int k) {
+        int count = 0;
+        
+        for (int start = 0; start < nums.length; start++) {
+            int sum = 0;
+
+            for (int end = start; end < nums.length; end++) {
+                sum += nums[end];
+                if (sum == k) {
+                    count++;
+                }
             }
         }
         return count;
