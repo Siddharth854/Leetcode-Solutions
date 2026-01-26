@@ -16,6 +16,6 @@ class Solution {
                 rp--;
             }
         }
-        return area;        
+        return area;  
     }
 }
