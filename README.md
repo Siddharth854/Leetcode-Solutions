@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Breadth-First Search
 |  |
