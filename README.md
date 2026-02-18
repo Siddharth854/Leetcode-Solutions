@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
@@ -223,12 +225,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
