@@ -1,12 +1,10 @@
 class Solution {
     public int divide(int dividend, int divisor) {
 
-        // Edge case overflow
         if (dividend == Integer.MIN_VALUE && divisor == -1) {
             return Integer.MAX_VALUE;
         }
 
-        // Convert to long to avoid overflow
         long dvd = Math.abs((long) dividend);
         long dvs = Math.abs((long) divisor);
 
