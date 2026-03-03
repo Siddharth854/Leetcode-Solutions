@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 ## Greedy
