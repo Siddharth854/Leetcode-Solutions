@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 ## Bit Manipulation
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3336-water-bottles-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Breadth-First Search
 |  |
