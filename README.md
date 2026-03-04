@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
