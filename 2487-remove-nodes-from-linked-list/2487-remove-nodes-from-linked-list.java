@@ -22,13 +22,12 @@ class Solution {
             st.push(temp);
             temp = temp.next;
         }
-        ListNode newHead = null;
-        while(!st.isEmpty())
+        while(st.size()>0)
         {
-            ListNode node = st.pop();
-            node.next = newHead;
-            newHead = node;
+            ListNode top = st.pop();
+            top.next = temp;
+            temp = top;
         }
-        return newHead;
-        }
+        return temp;
+    }
 }
