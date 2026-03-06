@@ -14,12 +14,11 @@ class Solution {
                 st.push(ch);
             }
         }
-        String ans = "";
-
-        for(int i = 0; i < st.size(); i++)
+        StringBuilder ans = new StringBuilder();
+        for(char c : st)
         {
-            ans += st.get(i);
+            ans.append(c);
         }
-        return ans;
+        return ans.toString();
     }
 }
