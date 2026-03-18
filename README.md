@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
