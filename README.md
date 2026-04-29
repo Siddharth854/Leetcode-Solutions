@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3719-longest-balanced-subarray-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Geometry
 |  |
