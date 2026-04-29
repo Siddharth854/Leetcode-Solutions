@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2833-furthest-point-from-origin](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Memoization
 |  |
 | ------- |
