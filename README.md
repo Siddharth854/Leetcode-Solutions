@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
