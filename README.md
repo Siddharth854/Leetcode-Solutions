@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0016-3sum-closest) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0190-reverse-bits) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
