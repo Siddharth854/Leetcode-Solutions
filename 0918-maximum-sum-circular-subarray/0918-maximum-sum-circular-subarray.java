@@ -5,29 +5,24 @@ class Solution {
         int ans_2 = 0;
         int maxPrefix = nums[0];
         int maxSubSum = maxPrefix;
-
         int minPrefix = nums[0];
         int minSubSum = minPrefix;
-
         int totalSum = 0;
-        for(int i=0;i<n;i++) totalSum += nums[i];
-
+        for(int i=0;i<n;i++)
+        {
+            totalSum+=nums[i];
+        }
         for(int i=1;i<n;i++)
         {
-            maxPrefix = Math.max(maxPrefix + nums[i],nums[i]);
-            maxSubSum = Math.max(maxPrefix, maxSubSum);
+            maxPrefix = Math.max(maxPrefix + nums[i], nums[i]);
+            maxSubSum = Math.max(maxPrefix,maxSubSum);
 
             minPrefix = Math.min(minPrefix + nums[i], nums[i]);
-            minSubSum = Math.min(minPrefix, minSubSum);
-        
+            minSubSum = Math.min(minSubSum,minPrefix);
         }
-        ans_1 = maxSubSum;
-        ans_2 = totalSum - minSubSum;
-        if(ans_2 == 0)
-        {
-            return ans_1;
-        }
-        
-    return Math.max(ans_1, ans_2);
+       if (maxSubSum < 0)
+            return maxSubSum;
+
+        return Math.max(maxSubSum, totalSum - minSubSum);
     }
 }
