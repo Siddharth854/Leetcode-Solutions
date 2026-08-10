@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -367,18 +368,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
