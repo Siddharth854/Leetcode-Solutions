@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
