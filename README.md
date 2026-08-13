@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2833-furthest-point-from-origin](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3719-longest-balanced-subarray-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
