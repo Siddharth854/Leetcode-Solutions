@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1642-water-bottles](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1642-water-bottles) |
+| [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -408,11 +411,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Memoization
 |  |
@@ -452,4 +457,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
