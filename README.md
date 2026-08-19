@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
