@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-cinema-seat-allocation](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-cinema-seat-allocation](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0868-binary-gap) |
+| [1386-cinema-seat-allocation](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Simulation
 |  |
