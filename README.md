@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 ## Stack
 |  |
