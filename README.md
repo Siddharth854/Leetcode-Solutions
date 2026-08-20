@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1642-water-bottles](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
