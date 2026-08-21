@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
 
     private long lcm(long a, long b) {
         return a / gcd(a, b) * b;
