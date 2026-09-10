@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
