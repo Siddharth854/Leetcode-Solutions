@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
