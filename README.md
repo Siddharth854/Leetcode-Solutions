@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0835-image-overlap](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
