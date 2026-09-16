@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1642-water-bottles](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1872-stone-game-viii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1991-find-the-middle-index-in-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
