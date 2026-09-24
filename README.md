@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3870-count-commas-in-range](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
