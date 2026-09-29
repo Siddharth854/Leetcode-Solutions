@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1872-stone-game-viii](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Siddharth854/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Ordered Set
 |  |
 | ------- |
