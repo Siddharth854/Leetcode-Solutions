@@ -1,0 +1,43 @@
+
+name: Auto Merge CodeSync to Main
+
+on:
+  push:
+    branches:
+      - codesync-test
+
+permissions:
+  contents: write
+
+concurrency:
+  group: codesync-auto-merge-main
+  cancel-in-progress: false
+
+jobs:
+  merge-to-main:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch latest branches
+        run: |
+          git fetch origin main codesync-test
+
+      - name: Merge codesync-test into main
+        run: |
+          git checkout main
+          git merge --no-edit origin/codesync-test
+
+      - name: Push updated main
+        run: |
+          git push origin main
