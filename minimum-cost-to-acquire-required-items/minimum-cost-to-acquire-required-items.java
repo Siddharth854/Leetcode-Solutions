@@ -1,0 +1,18 @@
+class Solution {
+    public long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
+        // Option 1: Buy all requirements using only Type 1 and Type 2 individually
+        long option1 = (long) need1 * cost1 + (long) need2 * cost2;
+
+        // Option 2: Cover both needs using only Type 3 (max of need1 and need2)
+        long option2 = (long) costBoth * Math.max(need1, need2);
+
+        // Option 3: Mix Type 3 for the overlapping minimum need, 
+        // and use Type 1 or Type 2 for the remaining surplus
+        int minNeed = Math.min(need1, need2);
+        long option3 = (long) costBoth * minNeed 
+                     + (long) (need1 - minNeed) * cost1 
+                     + (long) (need2 - minNeed) * cost2;
+
+        return Math.min(option1, Math.min(option2, option3));
+    }
+}
